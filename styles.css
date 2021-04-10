@@ -1,0 +1,38 @@
+body{
+    background-color:#214252;
+}
+
+#heading{
+    /* font-family: 'Montserrat', sans-serif; */
+    font-family: 'Pacifico', cursive;
+    text-align: center;
+    font-size: 80px;
+    font-style: italic;
+    color:#dff3e3;
+}
+
+.dices{
+    display: flex;
+    justify-content: center;
+}
+
+.dice{
+    padding-right: 60px;
+}
+
+.dice img{
+    padding-top: 30px;
+    height: 170px;
+    width: 170px;
+}
+
+.dice p{
+    padding-left: 30px;
+    font-family: 'Mali', cursive;
+    font-size: 30px;
+    color: #dff3e3;
+}
+
+/* .dice1, .dice2 , .dice3 , .dice4 , .dice5{
+    display:none;
+} */
